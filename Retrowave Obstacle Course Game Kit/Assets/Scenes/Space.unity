@@ -674,7 +674,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1371037666
 Transform:
   m_ObjectHideFlags: 0
@@ -1036,6 +1036,10 @@ PrefabInstance:
     - target: {fileID: 531703340551655545, guid: 1c2aa50c81f60c34e961a0b357765f77, type: 3}
       propertyPath: m_Name
       value: Retrowave Obstacle Course Game Kit
+      objectReference: {fileID: 0}
+    - target: {fileID: 1744682636390782832, guid: 1c2aa50c81f60c34e961a0b357765f77, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5157229511376023219, guid: 1c2aa50c81f60c34e961a0b357765f77, type: 3}
       propertyPath: m_LocalPosition.x
